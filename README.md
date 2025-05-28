@@ -62,12 +62,12 @@ I'm a passionate **Senior Quantitative Analyst** dedicated to transforming compl
 
 ### 💻 **Data Scientist - Machine Learning Engineer** @ NJIT-NSF *(Newark, USA)*
 
-📅 *Jan 2023 – Jan 2024*
+📅 *Sep 2022 – Jan 2024*
 
 * ⚡ Boosted drug prediction accuracy by **45%** using integrated ML models and frontend solutions.
 * 💊 Reduced pharmaceutical manufacturing costs by **38%** through cutting-edge machine learning methodologies.
 
-### 🌐 **Cloud Application Engineer** @ ZS Associates *(Pune, India)*
+### 🌐 **Cloud Application Engineer and Developer** @ ZS Associates *(Pune, India)*
 
 📅 *Sep 2019 – Jul 2022*
 
