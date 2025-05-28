@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/pandeysatyam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square\&logo=google-chrome)](https://www.pandeysatyam.com)
-[![Email](https://img.shields.io/badge/Email-satyamamarpandey@gmail.com-red?style=flat-square\&logo=gmail\&logoColor=white)](mailto:satyamamarpandey@gmail.com)
+[![Email](https://img.shields.io/badge/Email-7satyampandey@gmail.com-red?style=flat-square\&logo=gmail\&logoColor=white)](mailto:7satyampandey@gmail.com)
 
 ## 🚀 Who Am I?
 
@@ -110,4 +110,4 @@ I'm a passionate **Senior Quantitative Analyst** dedicated to transforming compl
 
 ## 🌟 Let's Connect & Innovate Together!
 
-Always excited to discuss data science, AI trends, and innovative tech solutions. Connect with me via [LinkedIn](https://www.linkedin.com/in/pandeysatyam) or drop a message at [satyamamarpandey@gmail.com](mailto:satyamamarpandey@gmail.com).
+Always excited to discuss data science, AI trends, and innovative tech solutions. Connect with me via [LinkedIn](https://www.linkedin.com/in/pandeysatyam) or drop a message at [7satyampandey@gmail.com](mailto:7satyampandey@gmail.com).
