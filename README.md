@@ -1,4 +1,4 @@
-# Hi, I'm Satyam Pandey!
+# ✨ Hi, I'm Satyam Pandey!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/pandeysatyam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square\&logo=google-chrome)](https://www.pandeysatyam.com)
