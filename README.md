@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.pandeysatyam.com">
+<a href="https://pandeysatyam.com/">
   <img src="https://img.shields.io/badge/PORTFOLIO-pandeysatyam.com-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Portfolio" />
 </a>
 <a href="https://brandsap.com">
@@ -29,6 +29,8 @@
 <img src="https://komarev.com/ghpvc/?username=satyamamarpandey&style=flat-square&color=21262d&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
+
+Satyam Pandey is an AI builder, founder of [Brandsap](https://brandsap.com/) and a Senior Quantitative Analyst at Exelon, with an MS in Computer Science from the New Jersey Institute of Technology. His portfolio is at [pandeysatyam.com](https://pandeysatyam.com/), including [About](https://pandeysatyam.com/about.html) and [Projects](https://pandeysatyam.com/projects.html). You can also find him on [LinkedIn](https://www.linkedin.com/in/pandeysatyam/).
 
 <h1 align="center">⚡ FOUNDER SNAPSHOT</h1>
 
@@ -311,6 +313,17 @@ Mobile, iOS and installable applications across the Brandsap ecosystem
 
 </div>
 
+## Case studies
+
+- [Rankelo](https://pandeysatyam.com/projects/rankelo.html)
+- [Capital Intelligence OS](https://pandeysatyam.com/projects/capital-intelligence-os.html)
+- [Vaani](https://pandeysatyam.com/projects/vaani.html)
+- [TalkBot](https://pandeysatyam.com/projects/talkbot.html)
+- [Bizia](https://pandeysatyam.com/projects/bizia.html)
+- [GridResolve AI](https://pandeysatyam.com/projects/gridresolve-ai.html)
+
+All case studies are listed on [pandeysatyam.com/projects.html](https://pandeysatyam.com/projects.html).
+
 <h1 align="center">🧠 HOW I THINK ABOUT BUILDING</h1>
 
 <div align="center">
@@ -544,7 +557,7 @@ Start with what I am building
 <a href="https://apps.brandsap.com">
   <img src="https://img.shields.io/badge/APPS-Mobile_&_iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apps" />
 </a>
-<a href="https://www.pandeysatyam.com">
+<a href="https://pandeysatyam.com/">
   <img src="https://img.shields.io/badge/ABOUT_ME-pandeysatyam.com-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Personal Website" />
 </a>
 
@@ -603,7 +616,7 @@ Explore the products, follow the work, or reach out.
 
 <a href="https://brandsap.com"><b>brandsap.com</b></a>
   •  
-<a href="https://www.pandeysatyam.com"><b>pandeysatyam.com</b></a>
+<a href="https://pandeysatyam.com/"><b>pandeysatyam.com</b></a>
   •  
 <a href="https://www.linkedin.com/in/pandeysatyam"><b>LinkedIn</b></a>
 
