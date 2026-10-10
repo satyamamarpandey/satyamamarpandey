@@ -121,18 +121,18 @@ Professionally, I work as a Senior Quantitative Analyst at Exelon. Outside that 
 <td width="50%" valign="top">
 
 <h2 align="center">📈 Rankelo</h2>
-<p align="center"><b>Autonomous Website Growth</b></p>
+<p align="center"><b>Rankelo - Your Autonomous Growth Team</b></p>
 
 <p align="center">
-Analyze → Prioritize → Act → Measure → Learn
+Turn visibility into growth.
 </p>
 
 <p align="center">
-Website intelligence, SEO, content, authority, competition, controlled publishing and measurement.
+Helps businesses improve SEO, answer-engine readiness and generative-search visibility, then turn prioritized findings into actions.
 </p>
 
 <p align="center">
-<a href="https://rankelo.brandsap.com"><b>↗ Explore Rankelo</b></a>
+<a href="https://rankelo.brandsap.com"><b>↗ Explore Rankelo</b></a> · <a href="https://github.com/satyamamarpandey/rankelo-public"><b>Public repo</b></a>
 </p>
 
 </td>
